@@ -89,6 +89,7 @@ Broken HTML
 
 ## 🎯 Example Use Cases
 <img width="1210" height="1991" alt="localhost_3000_" src="https://github.com/user-attachments/assets/8d4b0c20-aa78-471d-9805-920a383bbec5" />
+
 ### Accessibility Repair
 
 Before:
